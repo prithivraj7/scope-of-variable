@@ -1,5 +1,6 @@
 # scope-of-variable
 //scope of variable
+
 #include<stdio.h>
 void main()
 {
